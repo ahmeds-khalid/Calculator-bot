@@ -175,4 +175,4 @@ async def mathproblem(interaction: nextcord.Interaction):
             await interaction.followup.send("Time's up! No one answered correctly.")
             return
 
-bot.run('MTI2Njg0NDI5NzE3MzQwNTg1MA.G0uSNE.GEcVyoOaC3P17EFLdMkkSXeF4YZF_v-J2Gl1y4')
+bot.run(Token)
